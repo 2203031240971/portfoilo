@@ -26,8 +26,6 @@ Personal Portfolio Website
 🛠️ Future updates may include backend integration, animations, and more enhancements.
 
 📬 Connect with Me
-📧 Email: your-email@example.com
-
-💼 LinkedIn: Your LinkedIn Profile
+📧 Email: pdharanikumar001@example.com
 
 📌 Note: This portfolio was created for educational and professional showcase purposes. Feel free to explore and fork if you're building your own!
